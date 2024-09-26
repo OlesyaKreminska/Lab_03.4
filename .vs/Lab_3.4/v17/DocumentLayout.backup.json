@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_3.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD3D08F-C634-413B-A444-2A850AA3AE60}|Lab_3.4.vcxproj|C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_3.4\\Lab_3.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DD3D08F-C634-413B-A444-2A850AA3AE60}|Lab_3.4.vcxproj|solutionrelative:Lab_3.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab_3.4.cpp",
+              "DocumentMoniker": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_3.4\\Lab_3.4.cpp",
+              "RelativeDocumentMoniker": "Lab_3.4.cpp",
+              "ToolTip": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_3.4\\Lab_3.4.cpp",
+              "RelativeToolTip": "Lab_3.4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-21T11:44:35.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
